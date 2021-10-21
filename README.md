@@ -8,7 +8,7 @@ The following table lists the solved exercises:
 
 | Name | Description | File reference | Language
 | ------ | ------ | ------ | ------ |
-| NDim Array Flattener | Exercise from point no 5 |<silver085/mitd-assestment/blob/main/MultiArrayFlattener.py> | Python 3.8>
+| NDim Array Flattener | Exercise from point no 5 |<exercise 6/MultyArrayFlattener.py>| Python 3.8>
 
 
 ````
